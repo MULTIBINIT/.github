@@ -1,4 +1,5 @@
 ## Hi there 👋
+MULTIBINIT is a framework of second-principles methods.
 
 <!--
 
