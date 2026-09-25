@@ -27,6 +27,4 @@ The wider ecosystem includes [ABINIT](https://github.com/MULTIBINIT/abinit) for 
 
 Use the Issues and Pull Requests in the relevant repository to report problems or propose improvements; see that repository for component-specific guidance.
 
-## Contact
 
-For technical support, contact [Dr. Xu He](mailto:x.he@ulige.be) at Theoretical Materials Physics, Université de Liège.
