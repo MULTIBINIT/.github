@@ -1,6 +1,8 @@
 ## Hi there 👋
 MULTIBINIT is a framework of second-principles methods.
 
+<p><img src="uliege-logo.png" alt="Université de Liège" width="300"></p>
+
 <!--
 
 **Here are some ideas to get you started:**
